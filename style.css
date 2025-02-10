@@ -401,3 +401,6 @@ nav .fas{
 .fa {
     display: none !important;
 }
+i.fa, span.fa {
+    display: none !important;
+}
